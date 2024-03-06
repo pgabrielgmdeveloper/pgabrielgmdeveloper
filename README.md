@@ -1,6 +1,5 @@
 ### Hi dear 👋 , I'm Paulo Gabriel
 💻 information systems - UFS <br>
-💻 information systems - UFS <br>
 💻 system analysis and development - Descomplica <br>
 👨‍💻 Back-end Developer <br>
 🌱 I’m currently learning devops<br>
