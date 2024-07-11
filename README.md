@@ -2,7 +2,7 @@
 💻 information systems - UFS <br>
 💻 system analysis and development - Descomplica <br>
 👨‍💻 Back-end Developer <br>
-🌱 I’m currently learning developer mobile<br>
+🌱 I’m currently learning developer mobile and cloud<br>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgabrielgmdeveloper)](https://github.com/anuraghazra/github-readme-stats)
 
